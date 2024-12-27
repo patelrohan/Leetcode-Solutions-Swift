@@ -8,12 +8,14 @@
 
 /* Begin PBXFileReference section */
 		4AD278D42D1263BD004E355A /* 2109. Adding Spaces to a String.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "2109. Adding Spaces to a String.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		4AD278D52D126744004E355A /* 242. Valid Anagram.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "242. Valid Anagram.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 /* End PBXFileReference section */
 
 /* Begin PBXGroup section */
 		4AD278CD2D12639F004E355A = {
 			isa = PBXGroup;
 			children = (
+				4AD278D52D126744004E355A /* 242. Valid Anagram.playground */,
 				4AD278D42D1263BD004E355A /* 2109. Adding Spaces to a String.playground */,
 			);
 			sourceTree = "<group>";
