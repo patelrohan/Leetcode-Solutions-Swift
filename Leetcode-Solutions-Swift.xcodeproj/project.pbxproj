@@ -11,10 +11,19 @@
 		4AD278D52D126744004E355A /* 242. Valid Anagram.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "242. Valid Anagram.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 /* End PBXFileReference section */
 
+/* Begin PBXFileSystemSynchronizedRootGroup section */
+		4AA1E7F92D24DCF700D6BEC1 /* LinkedList */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = LinkedList;
+			sourceTree = "<group>";
+		};
+/* End PBXFileSystemSynchronizedRootGroup section */
+
 /* Begin PBXGroup section */
 		4AD278CD2D12639F004E355A = {
 			isa = PBXGroup;
 			children = (
+				4AA1E7F92D24DCF700D6BEC1 /* LinkedList */,
 				4AD278D52D126744004E355A /* 242. Valid Anagram.playground */,
 				4AD278D42D1263BD004E355A /* 2109. Adding Spaces to a String.playground */,
 			);
